@@ -1,0 +1,151 @@
+import pandas as pd
+import numpy as np
+
+from sklearn.model_selection import train_test_split, cross_val_score
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import (
+    accuracy_score, precision_score, recall_score,
+    f1_score, roc_auc_score, confusion_matrix, RocCurveDisplay
+)
+from sklearn.linear_model import LogisticRegression
+from sklearn.ensemble import RandomForestClassifier, StackingClassifier
+from sklearn.feature_selection import SelectKBest, mutual_info_classif
+
+from imblearn.over_sampling import SMOTE
+from xgboost import XGBClassifier
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+import shap
+
+# 1. Load dataset (adapt column names to your CSV)
+df = pd.read_csv("heart.csv")  # make sure file name matches
+
+# Assume target column is named 'target' (1 = disease, 0 = no disease)
+X = df.drop("target", axis=1)
+y = df["target"]
+
+print("Class distribution:", y.value_counts())
+
+# 2. Train-test split
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42, stratify=y
+)
+
+# 3. Scaling (for LR and XGB)
+scaler = StandardScaler()
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+
+# 4. Handle class imbalance with SMOTE
+smote = SMOTE(random_state=42)
+X_train_bal, y_train_bal = smote.fit_resample(X_train_scaled, y_train)
+print("After SMOTE:", np.bincount(y_train_bal))
+
+# 5. Feature selection (keep top k features)
+k = min(10, X_train_bal.shape[1])  # keep up to 10 or all if fewer
+selector = SelectKBest(score_func=mutual_info_classif, k=k)
+X_train_sel = selector.fit_transform(X_train_bal, y_train_bal)
+X_test_sel = selector.transform(X_test_scaled)
+
+selected_feature_indices = selector.get_support(indices=True)
+selected_features = X.columns[selected_feature_indices]
+print("Selected features:", list(selected_features))
+
+# 6. Define base models
+log_reg = LogisticRegression(max_iter=1000, random_state=42)
+rf = RandomForestClassifier(
+    n_estimators=200, max_depth=None, random_state=42
+)
+xgb = XGBClassifier(
+    n_estimators=200, max_depth=4, learning_rate=0.05,
+    subsample=0.9, colsample_bytree=0.9, eval_metric="logloss",
+    random_state=42
+)
+
+# 7. Train baseline models and evaluate
+def evaluate_model(name, model, X_tr, y_tr, X_te, y_te):
+    model.fit(X_tr, y_tr)
+    y_pred = model.predict(X_te)
+    y_prob = model.predict_proba(X_te)[:, 1]
+
+    acc = accuracy_score(y_te, y_pred)
+    prec = precision_score(y_te, y_pred)
+    rec = recall_score(y_te, y_pred)
+    f1 = f1_score(y_te, y_pred)
+    roc = roc_auc_score(y_te, y_prob)
+
+    print(f"\n=== {name} ===")
+    print(f"Accuracy : {acc:.3f}")
+    print(f"Precision: {prec:.3f}")
+    print(f"Recall   : {rec:.3f}")
+    print(f"F1-score : {f1:.3f}")
+    print(f"ROC-AUC  : {roc:.3f}")
+
+    return model, acc, prec, rec, f1, roc, y_pred, y_prob
+
+baseline_results = []
+
+for name, model in [
+    ("Logistic Regression", log_reg),
+    ("Random Forest", rf),
+    ("XGBoost", xgb)
+]:
+    m, acc, prec, rec, f1, roc, y_pred, y_prob = evaluate_model(
+        name, model, X_train_sel, y_train_bal, X_test_sel, y_test
+    )
+    baseline_results.append(
+        {"model": name, "accuracy": acc, "precision": prec,
+         "recall": rec, "f1": f1, "roc_auc": roc}
+    )
+
+# 8. Stacked ensemble
+estimators = [
+    ("lr", log_reg),
+    ("rf", rf),
+    ("xgb", xgb),
+]
+
+stack_model = StackingClassifier(
+    estimators=estimators,
+    final_estimator=LogisticRegression(max_iter=1000, random_state=42),
+    passthrough=False
+)
+
+stack_model, acc, prec, rec, f1, roc, y_pred_stack, y_prob_stack = evaluate_model(
+    "Stacked Ensemble", stack_model, X_train_sel, y_train_bal, X_test_sel, y_test
+)
+
+baseline_results.append(
+    {"model": "Stacked Ensemble", "accuracy": acc, "precision": prec,
+     "recall": rec, "f1": f1, "roc_auc": roc}
+)
+
+results_df = pd.DataFrame(baseline_results)
+print("\nSummary of results:\n", results_df)
+
+# 9. Confusion matrix for best model (here stacked)
+cm = confusion_matrix(y_test, y_pred_stack)
+plt.figure()
+sns.heatmap(cm, annot=True, fmt="d", cbar=False)
+plt.xlabel("Predicted")
+plt.ylabel("Actual")
+plt.title("Confusion Matrix - Stacked Ensemble")
+plt.tight_layout()
+plt.show()
+
+# 10. ROC curve (stacked)
+RocCurveDisplay.from_predictions(y_test, y_prob_stack)
+plt.title("ROC Curve - Stacked Ensemble")
+plt.tight_layout()
+plt.show()
+
+# 11. SHAP explainability (global feature importance)
+# We use the balanced, selected training set for SHAP
+explainer = shap.TreeExplainer(stack_model.final_estimator_ if hasattr(stack_model, "final_estimator_") else rf)
+# For a simple approach, we explain using RandomForest (rf) or xgb if SHAP has issues with stacking
+explainer = shap.TreeExplainer(rf)
+shap_values = explainer.shap_values(X_train_sel)
+
+# Global feature importance
+shap.summary_plot(shap_values, X_train_sel, feature_names=selected_features)

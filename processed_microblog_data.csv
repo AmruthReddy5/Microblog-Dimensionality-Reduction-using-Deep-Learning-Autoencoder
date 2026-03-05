@@ -1,0 +1,1001 @@
+text,airline_sentiment,text_length,cleaned_text,hashtags,mentions,cluster
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,negative,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,neutral,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,positive,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,negative,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,neutral,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,positive,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,negative,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,neutral,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,positive,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,negative,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,neutral,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,positive,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,negative,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,neutral,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,positive,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,negative,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,neutral,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,positive,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,negative,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,neutral,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,positive,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,negative,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,neutral,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,positive,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,negative,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,neutral,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,positive,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,negative,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,neutral,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,positive,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,negative,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,neutral,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,positive,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,negative,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,neutral,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,positive,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,negative,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,neutral,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,positive,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,negative,62,books still favorite escape reading books literature,reading books literature,,1
+Just had an amazing experience with customer service! #happy #satisfied,neutral,71,amazing experience customer service happy satisfied,happy satisfied,,0
+Flight delayed again... this is getting ridiculous #frustrated #travel,positive,70,flight delayed getting ridiculous frustrated travel,frustrated travel,,3
+Beautiful sunset from the airplane window #travel #photography #nature,negative,70,beautiful sunset airplane window travel photography nature,travel photography nature,,3
+Can't believe how expensive coffee is at the airport #overpriced #airport,neutral,73,cant believe expensive coffee airport overpriced airport,overpriced airport,,2
+Meeting old friends after years! #friendship #memories #joy,positive,59,meeting old friends years friendship memories joy,friendship memories joy,,3
+Working from home has its perks #remote #work #flexibility,negative,58,working home perks remote work flexibility,remote work flexibility,,3
+Traffic is crazy today #commute #city #stress,neutral,45,traffic crazy today commute city stress,commute city stress,,2
+New restaurant in town is absolutely fantastic! #food #dining #recommendation,positive,77,new restaurant town absolutely fantastic food dining recommendation,food dining recommendation,,3
+Technology is advancing so fast these days #tech #innovation #future,negative,68,technology advancing fast days tech innovation future,tech innovation future,,3
+Weekend plans: hiking and relaxation #weekend #nature #selfcare,neutral,63,weekend plans hiking relaxation weekend nature selfcare,weekend nature selfcare,,1
+Social media can be overwhelming sometimes #socialmedia #digitaldetox,positive,69,social media overwhelming sometimes socialmedia digitaldetox,socialmedia digitaldetox,,3
+Learning new skills online is so convenient #education #learning #online,negative,72,learning new skills online convenient education learning online,education learning online,,4
+Climate change is a serious issue we need to address #climate #environment,neutral,74,climate change serious issue need address climate environment,climate environment,,3
+Sports season is getting exciting! #sports #competition #entertainment,positive,70,sports season getting exciting sports competition entertainment,sports competition entertainment,,3
+Family time is the best time #family #love #togetherness,negative,56,family time best time family love togetherness,family love togetherness,,0
+Productive day at work today #productivity #work #achievement,neutral,61,productive day work today productivity work achievement,productivity work achievement,,1
+Art exhibition was inspiring #art #culture #creativity,positive,54,art exhibition inspiring art culture creativity,art culture creativity,,3
+Healthy eating habits are hard to maintain #health #nutrition #lifestyle,negative,72,healthy eating habits hard maintain health nutrition lifestyle,health nutrition lifestyle,,2
+Music has the power to change moods #music #emotional #therapy,neutral,62,music power change moods music emotional therapy,music emotional therapy,,3
+Books are still my favorite escape #reading #books #literature,positive,62,books still favorite escape reading books literature,reading books literature,,1
