@@ -12,21 +12,23 @@ Dataset Information
 
 Model Architecture
 - Type: Deep Autoencoder with BatchNorm and Dropout
-- Input Dimensions: N/A
-- Latent Dimensions: N/A
-- Hidden Layers: [512, 256, 128] neurons
-- Compression Ratio: N/Ax
+- Input Dimensions: 281
+- Latent Dimensions: 50
+- Hidden Layers: [512, 256, 128]
+- Compression Ratio: 5.62x
 
 Training Results
-- Epochs: N/A
-- Final Training Loss: N/A
-- Final Validation Loss: N/A
-- Best Validation Loss: N/A
+- Epochs: 100
+- Final Training Loss: 0.617514
+- Final Validation Loss: 0.617248
+- Best Validation Loss: 0.617228 (Epoch 75)
 
 Embedding Quality
-- Silhouette Score: N/A
-- Cluster Count: N/A
-- Embedding Range: N/A
+• Embedding Mean: 0.004875
+• Embedding Std: 0.906832
+• Embedding Range: [-2.869254, 2.641073]
+• Silhouette Score: 0.2883
+• Avg Pairwise Distance: 4.4552
 
 Key Results
 1. Successfully reduced dimensionality while preserving semantic meaning
@@ -56,3 +58,4 @@ Recommendations for Improvement
 
 
 Report generated automatically on 2026-03-05 14:03:47 by Microblog Dimensionality Reduction Pipeline
+
